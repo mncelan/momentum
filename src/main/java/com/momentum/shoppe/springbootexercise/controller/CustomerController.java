@@ -2,7 +2,6 @@ package com.momentum.shoppe.springbootexercise.controller;
 
 import com.momentum.shoppe.springbootexercise.exception.ResourceNotFoundException;
 import com.momentum.shoppe.springbootexercise.model.Customer;
-import com.momentum.shoppe.springbootexercise.model.Product;
 import com.momentum.shoppe.springbootexercise.repository.CustomerRepository;
 import com.momentum.shoppe.springbootexercise.repository.ProductRepository;
 import lombok.var;
@@ -15,7 +14,6 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 @RestController
