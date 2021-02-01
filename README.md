@@ -5,6 +5,10 @@ The following commands will help starting the development environment:
 ### IDE
 Jetbrains IntelliJ
 
+#### Branches
+
+- **develop** is the main branch for this project
+
 The following commands can be used to start up the project
 
 - mvn spring-boot:run
