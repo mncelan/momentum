@@ -18,7 +18,8 @@ The following commands can be used to start up the project
 - docker build -t momentum/spring-boot .
 - docker run --rm --name momentum-spring-boot -p 8080:8085 -it  momentum/spring-boot
 
-### Swagger
+#### Postman import
+Import using this url: http://localhost:8085/api/swagger.json 
 
-Import in postman url: http://localhost:8085/api/swagger.json 
+#### Swagger
 Swagger ui url: http://localhost:8085/swagger-ui.html
