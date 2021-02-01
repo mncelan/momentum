@@ -1,4 +1,11 @@
-# Momentum Spring 
+# Momentum Java Exercise 
+
+The following commands will help starting the development environment:
+
+### IDE
+Jetbrains IntelliJ
+
+The following commands can be used to start up the project
 
 - mvn spring-boot:run
 
@@ -13,5 +20,5 @@
 
 ### Swagger
 
-Import in postman http://localhost:8085/api/swagger.json 
-Browser http://localhost:8085/swagger-ui.html
+Import in postman url: http://localhost:8085/api/swagger.json 
+Swagger ui url: http://localhost:8085/swagger-ui.html
